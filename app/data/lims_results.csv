@@ -1,0 +1,5 @@
+test_id,sample_id,traceability_lot_code,product_id,test_type,test_method,result,result_value,critical_limit,test_date,lab_name,analyst,coa_document_ref
+T-9001,SMP-7001,LOT-2026-0437,PRD-1001,E_coli_O157H7,ISO 16654,POSITIVE,Detected in 25g,Not detected / 25g,2026-06-08,GreenLeaf QA Lab,J. Rivera,COA-2026-0437
+T-9002,SMP-7001,LOT-2026-0437,PRD-1001,Salmonella,ISO 6579,NEGATIVE,Not detected,Not detected / 25g,2026-06-08,GreenLeaf QA Lab,J. Rivera,COA-2026-0437
+T-9003,SMP-7001,LOT-2026-0437,PRD-1001,Listeria,ISO 11290,NEGATIVE,Not detected,Not detected / 25g,2026-06-08,GreenLeaf QA Lab,J. Rivera,COA-2026-0437
+T-9010,SMP-7010,LOT-2026-0410,PRD-1001,E_coli_O157H7,ISO 16654,NEGATIVE,Not detected,Not detected / 25g,2026-06-02,GreenLeaf QA Lab,K. Patel,COA-2026-0410

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: fda-recall-mock-erp
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /healthz
+    envVars:
+      - key: MOCK_ERP_API_KEY
+        sync: false   # set in Render dashboard if you want auth; leave unset for an open demo API
+    autoDeploy: true

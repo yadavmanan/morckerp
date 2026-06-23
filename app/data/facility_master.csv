@@ -1,0 +1,4 @@
+facility_id,facility_name,facility_type,gln,address_line,city,state,country,contact_email
+F-100,Salinas Valley Farm,FARM,0860001230005,1 Harvest Way,Salinas,CA,USA,ops@greenleaffarms.com
+F-200,Salinas Pack House,PROCESSING,0860001230012,5 Cooling Ln,Salinas,CA,USA,packhouse@greenleaffarms.com
+F-300,Central Valley Cold Storage,WAREHOUSE,0860001230029,800 Storage Rd,Fresno,CA,USA,warehouse@greenleaffarms.com

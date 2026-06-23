@@ -1,0 +1,23 @@
+{
+  "eventType": "QUALITY_ALERT",
+  "alertId": "QA-2026-0608-01",
+  "timestamp": "2026-06-08T09:15:00Z",
+  "source": "LIMS",
+  "severity": "CRITICAL",
+  "test": {
+    "testId": "T-9001",
+    "sampleId": "SMP-7001",
+    "traceabilityLotCode": "LOT-2026-0437",
+    "productId": "PRD-1001",
+    "productName": "Romaine Lettuce Hearts 3-pack",
+    "testType": "E_coli_O157H7",
+    "result": "POSITIVE",
+    "resultValue": "Detected in 25g",
+    "criticalLimit": "Not detected / 25g"
+  },
+  "facilityId": "F-100",
+  "productionDateRange": {
+    "start": "2026-06-01",
+    "end": "2026-06-01"
+  }
+}

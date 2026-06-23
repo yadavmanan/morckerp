@@ -1,0 +1,5 @@
+product_id,product_name,product_description,category,brand,gtin,unit_of_measure,shelf_life_days,storage_requirement,allergens,supplier_id,active_flag
+PRD-1001,Romaine Lettuce Hearts 3-pack,"Fresh romaine hearts, 3-count sleeve, ready-to-eat",Leafy Greens,GreenLeaf Farms,00860001234017,EA,11,Refrigerated 1-4C,,S-200,TRUE
+PRD-1002,Baby Spinach 5oz,"Triple-washed baby spinach, 5oz clamshell",Leafy Greens,GreenLeaf Farms,00860001234024,EA,9,Refrigerated 1-4C,,S-201,TRUE
+PRD-1003,Spring Mix 5oz,"Mixed baby greens blend, 5oz clamshell",Leafy Greens,GreenLeaf Farms,00860001234031,EA,8,Refrigerated 1-4C,,S-201,TRUE
+PRD-1004,Iceberg Lettuce Chopped 10oz,"Chopped iceberg lettuce, 10oz bag",Leafy Greens,GreenLeaf Farms,00860001234048,EA,10,Refrigerated 1-4C,,S-202,TRUE

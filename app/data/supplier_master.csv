@@ -1,0 +1,4 @@
+supplier_id,supplier_name,supplier_type,tier_level,contact_name,contact_email,contact_phone,address_line,city,state,country,fda_registration_number
+S-200,AgriSeed Co,RAW_MATERIAL,1,Maria Lopez,qa@agriseed.com,+1-831-555-0142,200 Seed Rd,Salinas,CA,USA,98765432101
+S-201,Coastal Greens Growers,RAW_MATERIAL,1,Tom Becker,quality@coastalgreens.com,+1-831-555-0198,45 Field Ave,Watsonville,CA,USA,98765432118
+S-202,ValleyFresh Produce Co,RAW_MATERIAL,1,Linda Choi,qa@valleyfresh.com,+1-559-555-0211,12 Orchard St,Fresno,CA,USA,98765432125
