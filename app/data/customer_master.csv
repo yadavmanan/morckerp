@@ -1,5 +1,5 @@
 customer_id,customer_name,customer_type,contact_name,contact_email,api_available_flag,edi_api_endpoint,address_line,city,state,country,gln
-C-300,FreshPack Distribution,DISTRIBUTOR,Dana Wu,recall@freshpack.com,TRUE,https://api.freshpack.com/v1/quarantine,44 Dock St,Phoenix,AZ,USA,0830002340007
-C-301,WestCoast Grocery DC,DISTRIBUTOR,Sam Ortiz,foodsafety@westcoastgrocery.com,FALSE,,900 Produce Blvd,Los Angeles,CA,USA,0830002340014
-C-302,Southwest Foods DC,DISTRIBUTOR,Priya Nair,qa@southwestfoods.com,FALSE,,120 Market Dr,Dallas,TX,USA,0830002340021
-C-303,Sunrise Retail Group,RETAILER,Ben Carter,compliance@sunriseretail.com,TRUE,https://api.sunriseretail.com/v2/recalls,77 Commerce Pkwy,Denver,CO,USA,0830002340038
+C-300,FreshPack Distribution,DISTRIBUTOR,Dana Wu,yadav.manan@outlook.com,TRUE,https://api.freshpack.com/v1/quarantine,44 Dock St,Phoenix,AZ,USA,0830002340007
+C-301,WestCoast Grocery DC,DISTRIBUTOR,Sam Ortiz,Keerthu18aug97@gmail.com,FALSE,,900 Produce Blvd,Los Angeles,CA,USA,0830002340014
+C-302,Southwest Foods DC,DISTRIBUTOR,Priya Nair,jyothikrishna995@gmail.com,FALSE,,120 Market Dr,Dallas,TX,USA,0830002340021
+C-303,Sunrise Retail Group,RETAILER,Ben Carter,compliance@indiaindiaindia.com,TRUE,https://api.sunriseretail.com/v2/recalls,77 Commerce Pkwy,Denver,CO,USA,0830002340038
