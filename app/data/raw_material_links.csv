@@ -1,3 +1,4 @@
 link_id,finished_lot_code,raw_material_lot_code,ingredient_name,supplier_id,tier_level,quantity_used,unit_of_measure,received_date
 RM-0001,LOT-2026-0437,SEED-889,Romaine seed,S-200,1,12.5,KG,2026-05-10
-RM-0002,LOT-2026-0410,SEED-872,Romaine seed,S-200,1,9.8,KG,2026-05-05
+RM-0002,LOT-2026-0437,GEN-2210,Romaine seed genetics stock,S-210,2,3.2,KG,2026-04-20
+RM-0003,LOT-2026-0410,SEED-872,Romaine seed,S-200,1,9.8,KG,2026-05-05
